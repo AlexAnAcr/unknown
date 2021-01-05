@@ -1,0 +1,7 @@
+Java begin
+[java] \Here you can choose to send the data: java (default), sustem.
+language=plugin \Here you can select the language to send data: plugin (default)
+<Proc>
+Java stop
+>Proc<
+\Here you can write data to be sent to the ports. Your port=Your data. Example: Port1=Hello
